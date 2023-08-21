@@ -94,3 +94,18 @@ La estructura de una red se compone de varios elementos:
 •	Modelos de protocolo: Un modelo de protocolo proporciona un modelo que coincide fielmente con la estructura de una suite de protocolo en particular. El conjunto jerárquico de protocolos relacionados en una suite representa típicamente toda la funcionalidad requerida para interconectar la red humana con la red de datos.
 •	Modelo de referencia: Proporciona una referencia común para mantener consistencia en todos los tipos de protocolos y servicios de red.
 
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+•	Modelo TCP/IP: 
+	o	Acceso a la red: Esta capa se encarga de la transmisión física de datos sobre el medio.
+	o	Capa de Internet: Esta capa se encarga del enrutamiento de paquetes a través de la red.
+	o	Capa de Transporte: Esta capa proporciona servicios de transporte confiable o no confiable para los datos.
+	o	Capa de Aplicación: En esta capa, las aplicaciones interactúan directamente con los protocolos de red.
+•	Modelo OSI:
+	o	Capa de Aplicación: Esta capa es la más cercana al usuario final y proporciona interfaces para que las aplicaciones se comuniquen con la red.
+	o	Capa de Presentación: Se encarga de la conversión, cifrado y compresión de datos para garantizar que las aplicaciones en diferentes sistemas puedan entenderse entre sí.
+	o	Capa de Sesión: Controla las sesiones entre aplicaciones en diferentes dispositivos.
+	o	Capa de Transporte: Ofrece la entrega de datos confiable y sin errores entre dos dispositivos en una red.
+	o	Capa de Red: Responsable de enrutar los paquetes de datos a través de la red para que lleguen de manera eficiente al destino correcto.
+	o	Capa de Enlace de Datos: Maneja la comunicación directa entre dispositivos vecinos en la misma red.
+	o	Capa Física: Esta es la capa más baja y se refiere al medio físico a través del cual se transmiten los bits.
+
