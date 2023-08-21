@@ -82,4 +82,7 @@ La estructura de una red se compone de varios elementos:
 
 •	Los protocolos son independientes a la tecnología ya que los protocolos especifican la funcionalidad de la red, no la tecnología subyacente para admitir esta funcionalidad. Esto hace que muchos tipos de dispositivos pueden comunicarse con los mismos protocolos.
 
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+•	Es una unidad de información que se utiliza en la comunicación de datos a través de una red. Son componentes fundamentales en la capa de enlace de datos del modelo OSI (Open Systems Interconnection) y se utilizan para encapsular y transportar datos en diferentes niveles de la red.
+
 
