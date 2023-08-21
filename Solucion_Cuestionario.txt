@@ -9,3 +9,21 @@ Inicialmente se hablaba de que una red datos era la que intercambiaba informaci�
 
 • ¿Qué es una red convergente?
 Anteriormente conocíamos los diferentes tipos de redes que ofrecían múltiples servicios, donde cada uno de estos servicios requerían de una tecnología diferente para emitir la debida señal. Ahora se han logrado consolidar todas esas redes en una única plataforma a la cual se le da el nombre de red convergente, lo que permite que el flujo de voz, vídeo y el resto de datos viajen a través de la misma red. 
+
+2. Describir las características de las arquitecturas de red: 
+• Tolerante a fallas:
+	- Se refiere a la capacidad de la red para mantener su funcionamiento incluso en presencia de fallas en el software o hardware.
+	- La red utiliza enlaces o rutas redundantes entre el origen y el destino del mensaje, esto implica tener múltiples caminos para enrutar la información.
+
+• Escalabilidad
+	- Habla de que puede expandirse de manera eficiente para acomodar nuevos usuarios y aplicaciones sin que el rendimiento del servicio para los usuarios existentes se vea afectado negativamente.
+	- La red está organizada en capas, tanto en la infraestructura física como en la arquitectura lógica, permitiendo la integración de usuarios y servicios sin causar interrupciones.
+
+• Calidad del servicio
+	- La calidad de servicio implica mantener un nivel constante y consistente de calidad para las transmisiones de voz y video.
+	- La calidad de estos servicios se evalúa en función de la experiencia del usuario.
+
+• Seguridad. 
+	- La amplia gama de usos, incluido el intercambio de información empresarial confidencial, exige niveles más altos de privacidad y seguridad en comparación con la arquitectura de red origina.
+	- La importancia de la seguridad en Internet ha llevado a un gran esfuerzo en investigación y desarrollo en esta área.
+	- Se están implementando diversas herramientas y procedimientos para abordar las vulnerabilidades de seguridad en la arquitectura de red actual.
