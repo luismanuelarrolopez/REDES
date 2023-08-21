@@ -43,3 +43,9 @@ Por ello la importancia de la calidad del servicio en una red de datos está en 
 
 Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+La estructura de una red se compone de varios elementos:
+•	Emisor: Es el sujeto que genera el mensaje o la información que se va a transmitir, puede ser una persona o un dispositivo electrónico.
+•	Receptor: Es la entidad que recibe e interpreta el mensaje transmitido, al igual que el emisor este puede ser otra persona o dispositivo electrónico.
+•	Canal de Comunicación: Es el medio físico o lógico a través del cual se transmite el mensaje desde el emisor al receptor. Puede ser un cable físico, una transmisión inalámbrica, fibra óptica u otros.
+•	Codificación: Antes de transmitir los datos, estos se convierten a binario o bits, que son la forma básica de representar la información en una computadora. Luego, estos bits se codifican y se modulan en una señal adecuada para su transmisión a través del canal elegido.
+
