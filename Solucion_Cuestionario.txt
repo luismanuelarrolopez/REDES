@@ -78,3 +78,8 @@ La estructura de una red se compone de varios elementos:
 •	Puerto físico: Conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red.
 •	Interfaz de red: Puertos especializados de un dispositivo de internetworking que se conecta con redes individuales.
 
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+
+•	Los protocolos son independientes a la tecnología ya que los protocolos especifican la funcionalidad de la red, no la tecnología subyacente para admitir esta funcionalidad. Esto hace que muchos tipos de dispositivos pueden comunicarse con los mismos protocolos.
+
+
