@@ -89,3 +89,8 @@ La estructura de una red se compone de varios elementos:
 •	Protocolos: Los protocolos en las comunicaciones de redes son conjuntos de reglas y estándares que permiten que los dispositivos se comuniquen y compartan datos de manera efectiva y coherente.
 •	El proceso de encapsulamiento de datos se refiere a la forma en que los datos se empaquetan en unidades específicas a medida que se desplazan a través de las capas del modelo OSI o TCP/IP.
 (ILUSTRACIÓN EN DOCUMENTO PDF)
+
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+•	Modelos de protocolo: Un modelo de protocolo proporciona un modelo que coincide fielmente con la estructura de una suite de protocolo en particular. El conjunto jerárquico de protocolos relacionados en una suite representa típicamente toda la funcionalidad requerida para interconectar la red humana con la red de datos.
+•	Modelo de referencia: Proporciona una referencia común para mantener consistencia en todos los tipos de protocolos y servicios de red.
+
