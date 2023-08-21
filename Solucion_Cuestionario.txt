@@ -1,0 +1,11 @@
+Preguntas de lectura: Capítulo 1
+
+1. Responda:
+• ¿Qué son los datos?
+Los datos es toda esa información que puede ser compartida con otras personas, por ello cuando hablamos de datos también hablamos de archivos de texto, imágenes, audio, video o cualquier otra cosa que se pueda digitalizar.
+
+• ¿Qué es una red de datos? 
+Inicialmente se hablaba de que una red datos era la que intercambiaba información basada en caracteres entre un conjunto de dispositivos y medios conectados, pero actualmente las redes de datos han evolucionado para agregarle voz, flujos de video, texto y gráficos, a los diferentes tipos de dispositivos. Además, a las redes de datos se le han agregado métodos de comunicación que le permite a las personas interactuar directamente con otras en forma casi instantánea.
+
+• ¿Qué es una red convergente?
+Anteriormente conocíamos los diferentes tipos de redes que ofrecían múltiples servicios, donde cada uno de estos servicios requerían de una tecnología diferente para emitir la debida señal. Ahora se han logrado consolidar todas esas redes en una única plataforma a la cual se le da el nombre de red convergente, lo que permite que el flujo de voz, vídeo y el resto de datos viajen a través de la misma red. 
