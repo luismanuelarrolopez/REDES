@@ -69,3 +69,8 @@ La estructura de una red se compone de varios elementos:
 			WAN: Permite la comunicación entre diferentes ubicaciones distantes geográficamente.
 			INTERNET: Facilita la comunicación global y el acceso a recursos en línea.
 
+3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+•	Internetwork: Se refiere a la interconexión de varios dispositivos intermedios individuales los cuales pueden tener diferentes protocolos y medios.
+•	Internet: Se refiere a la red global que se crea por la interconexión de redes que pertenecen a los Proveedores de Internet (ISP)
+
+
