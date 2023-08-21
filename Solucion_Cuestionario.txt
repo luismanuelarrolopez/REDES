@@ -73,4 +73,8 @@ La estructura de una red se compone de varios elementos:
 •	Internetwork: Se refiere a la interconexión de varios dispositivos intermedios individuales los cuales pueden tener diferentes protocolos y medios.
 •	Internet: Se refiere a la red global que se crea por la interconexión de redes que pertenecen a los Proveedores de Internet (ISP)
 
+4.	Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+•	Tarjeta de interfaz de red (NIC): Proporciona la conexión física con la red en la computadora personal u otro dispositivo host.
+•	Puerto físico: Conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red.
+•	Interfaz de red: Puertos especializados de un dispositivo de internetworking que se conecta con redes individuales.
 
