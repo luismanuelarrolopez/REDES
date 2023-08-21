@@ -85,4 +85,7 @@ La estructura de una red se compone de varios elementos:
 6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 •	Es una unidad de información que se utiliza en la comunicación de datos a través de una red. Son componentes fundamentales en la capa de enlace de datos del modelo OSI (Open Systems Interconnection) y se utilizan para encapsular y transportar datos en diferentes niveles de la red.
 
-
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+•	Protocolos: Los protocolos en las comunicaciones de redes son conjuntos de reglas y estándares que permiten que los dispositivos se comuniquen y compartan datos de manera efectiva y coherente.
+•	El proceso de encapsulamiento de datos se refiere a la forma en que los datos se empaquetan en unidades específicas a medida que se desplazan a través de las capas del modelo OSI o TCP/IP.
+(ILUSTRACIÓN EN DOCUMENTO PDF)
