@@ -1,0 +1,45 @@
+Preguntas de lectura: Capítulo 1
+
+1. Responda:
+• ¿Qué son los datos?
+Los datos es toda esa información que puede ser compartida con otras personas, por ello cuando hablamos de datos también hablamos de archivos de texto, imágenes, audio, video o cualquier otra cosa que se pueda digitalizar.
+
+• ¿Qué es una red de datos? 
+Inicialmente se hablaba de que una red datos era la que intercambiaba información basada en caracteres entre un conjunto de dispositivos y medios conectados, pero actualmente las redes de datos han evolucionado para agregarle voz, flujos de video, texto y gráficos, a los diferentes tipos de dispositivos. Además, a las redes de datos se le han agregado métodos de comunicación que le permite a las personas interactuar directamente con otras en forma casi instantánea.
+
+• ¿Qué es una red convergente?
+Anteriormente conocíamos los diferentes tipos de redes que ofrecían múltiples servicios, donde cada uno de estos servicios requerían de una tecnología diferente para emitir la debida señal. Ahora se han logrado consolidar todas esas redes en una única plataforma a la cual se le da el nombre de red convergente, lo que permite que el flujo de voz, vídeo y el resto de datos viajen a través de la misma red. 
+
+2. Describir las características de las arquitecturas de red: 
+• Tolerante a fallas:
+	- Se refiere a la capacidad de la red para mantener su funcionamiento incluso en presencia de fallas en el software o hardware.
+	- La red utiliza enlaces o rutas redundantes entre el origen y el destino del mensaje, esto implica tener múltiples caminos para enrutar la información.
+
+• Escalabilidad
+	- Habla de que puede expandirse de manera eficiente para acomodar nuevos usuarios y aplicaciones sin que el rendimiento del servicio para los usuarios existentes se vea afectado negativamente.
+	- La red está organizada en capas, tanto en la infraestructura física como en la arquitectura lógica, permitiendo la integración de usuarios y servicios sin causar interrupciones.
+
+• Calidad del servicio
+	- La calidad de servicio implica mantener un nivel constante y consistente de calidad para las transmisiones de voz y video.
+	- La calidad de estos servicios se evalúa en función de la experiencia del usuario.
+
+• Seguridad. 
+	- La amplia gama de usos, incluido el intercambio de información empresarial confidencial, exige niveles más altos de privacidad y seguridad en comparación con la arquitectura de red origina.
+	- La importancia de la seguridad en Internet ha llevado a un gran esfuerzo en investigación y desarrollo en esta área.
+	- Se están implementando diversas herramientas y procedimientos para abordar las vulnerabilidades de seguridad en la arquitectura de red actual.
+
+3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+Se refieren a dos enfoques diferentes en la forma en que se establecen y mantienen las comunicaciones en una red de telecomunicaciones, como Internet.
+
+• Una red orientada a conexión se basa en la idea de establecer un circuito o ruta dedicada entre el emisor y el receptor antes de que se inicie la comunicación. En otras palabras, antes de enviar cualquier dato, se establece un camino completo desde el emisor al receptor, y este camino se mantiene durante toda la duración de la comunicación. Además, hay que decir que, si algún enlace o dispositivo en el circuito falla, la comunicación se interrumpe
+
+• En cuanto a una red no orientada a la conexión es aquella que divide los datos en paquetes más pequeños y los envían de manera independiente a través de la red, cada paquete puede seguir rutas diferentes hacia su destino, y en cada nodo de conmutación, se toma una decisión sobre cómo reenviar el paquete en función de la información de direccionamiento. Esto quiere decir que no se establece un circuito dedicado previamente, lo que significa que no hay una ruta fija para toda la comunicación. Esto permite una mayor flexibilidad y resistencia a fallas.
+
+4. Describa que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio en una red de datos se refiere a la capacidad de proporcionar servicios de manera confiable, predecible y eficiente en términos de comunicación y transmisión de datos. 
+Por ello la importancia de la calidad del servicio en una red de datos está en garantizar la entrega confiable y eficiente de información. Esto implica asegurar que los datos lleguen en el orden correcto, evitando congestiones que puedan afectar el rendimiento, y priorizando aplicaciones críticas. La calidad del servicio permite administrar los recursos limitados de la red de manera eficaz, garantizando una experiencia fluida para los usuarios y la operación efectiva de servicios sensibles al tiempo, como la transmisión en tiempo real y las videoconferencias. 
+
+
+
+Preguntas de lectura: Capítulo 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
