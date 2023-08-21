@@ -48,4 +48,24 @@ La estructura de una red se compone de varios elementos:
 •	Receptor: Es la entidad que recibe e interpreta el mensaje transmitido, al igual que el emisor este puede ser otra persona o dispositivo electrónico.
 •	Canal de Comunicación: Es el medio físico o lógico a través del cual se transmite el mensaje desde el emisor al receptor. Puede ser un cable físico, una transmisión inalámbrica, fibra óptica u otros.
 •	Codificación: Antes de transmitir los datos, estos se convierten a binario o bits, que son la forma básica de representar la información en una computadora. Luego, estos bits se codifican y se modulan en una señal adecuada para su transmisión a través del canal elegido.
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+•	Definición:
+	o	RED: Conjunto de dispositivos, conectados entre sí para compartir recursos y comunicarse.	
+	o	LAN: Es una red de dispositivos que están físicamente cerca entre sí, como en un edificio o campus.
+	o	WAN: Es una red que abarca una mayor área geográfica, como una ciudad o un país, esta red es la que se encarga de realizar las interconexiones entre las LAN.
+	o	INTERNETWORK: Es una malla global de redes interconectadas, estas pertenecen a grandes organizaciones públicas o privadas, como agencias gubernamentales o empresas industriales, y están reservadas para su uso exclusivo.
+	o	INTERNET: Es un sistema global de redes interconectadas que utilizan el protocolo TCP/IP para proporcionar servicios y recursos de información a nivel mundial. Es conocida con una red de redes, que abarca el mundo entero y permite la comunicación y el intercambio de información a través de una variedad de servicios
+•	Comparación y Contraste: 
+	o	Alcance:
+			LAN: Alcance local, como un edificio o campus (No más de 100m).
+			WAN: Alcance amplio, abarca áreas geográficas más grandes.
+			INTERNET: Alcance global, conecta redes de todo el mundo.
+	o	Tecnologías y Velocidad:
+			LAN: Usualmente utiliza tecnología como ethernet que ofrecen alta velocidad.
+			WAN: Utiliza tecnologías más complejas, la velocidad puede variar según la distancia.
+			INTERNET: Emplea una amplia variedad de tecnologías y su velocidad varía según la conexión.
+	o	Comunicación:
+			LAN: Ideal para la comunicación interna y compartición de recursos dentro de una organización.
+			WAN: Permite la comunicación entre diferentes ubicaciones distantes geográficamente.
+			INTERNET: Facilita la comunicación global y el acceso a recursos en línea.
 
